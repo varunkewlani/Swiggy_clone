@@ -1,0 +1,7 @@
+// with options
+{
+    //nothing here and empty bacause i want console logs, 
+    //errors and warns in my console of browser, 
+    //if you wnat to remove then find code over internet for
+    // babel-plugin-......
+}
